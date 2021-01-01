@@ -10,10 +10,16 @@ sites:
     url: https://www.snowtrust.fr
   - name: Hermann Codes
     url: https://www.hermann.codes
-  - name: smashpips back-end
-    url: https://api.smashpips.com
   - name: Shes.link
     url: https://shes.link
+  - name: Smashpips/Back-end
+    url: $SECRET_SITE_SMASHPIPS_BACKEND
+  - name: Snowtrust/Boards
+    url: $SECRET_SITE_SNOWTRUST_BOARDS
+  - name: Snowtrust/Finance
+    url: $SECRET_SITE_SNOWTRUST_FINANCE
+  - name: Snowtrust/Wiki
+    url: $SECRET_SITE_SNOWTRUST_WIKI
 
 status-website:
    # Add your custom domain below, or remove the next line if you don't have a domain
