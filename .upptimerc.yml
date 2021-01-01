@@ -12,10 +12,13 @@ sites:
     url: https://www.hermann.codes
   - name: smashpips back-end
     url: https://api.smashpips.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Shes.link
+    url: https://shes.link
 
 status-website:
+   # Add your custom domain below, or remove the next line if you don't have a domain
+  cname: itishermann.me
+  # Uncomment the following line if you don't have a custom domain and add your repo name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime status
   baseUrl: /upptime # where "repo" is your repository name
