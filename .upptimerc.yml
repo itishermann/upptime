@@ -4,20 +4,20 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: Portfolio
+    url: https://itishermann.me
+  - name: Snowtrust
+    url: https://www.snowtrust.fr
+  - name: Hermann Codes
+    url: https://www.hermann.codes
+  - name: smashpips back-end
+    url: https://api.smashpips.com
   - name: Secret Site
     url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: itishermann.me
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
