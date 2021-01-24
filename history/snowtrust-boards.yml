@@ -1,7 +1,7 @@
 url: $SECRET_SITE_SNOWTRUST_BOARDS
-status: up
-code: 200
-responseTime: 745
-lastUpdated: 2021-01-23T23:33:45.684Z
+status: down
+code: 523
+responseTime: 3271
+lastUpdated: 2021-01-24T21:15:10.271Z
 startTime: Fri Jan 01 2021 17:04:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
