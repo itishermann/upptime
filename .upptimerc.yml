@@ -22,8 +22,6 @@ sites:
     url: $SECRET_SITE_SNOWTRUST_WIKI
 
 status-website:
-   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: itishermann.me
   # Uncomment the following line if you don't have a custom domain and add your repo name
   published: true
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
